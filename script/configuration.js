@@ -104,5 +104,5 @@ var idSlot ;
         }
     });
     localStorage.setItem("JoueurSelectionnés",JSON.stringify(joueurSelectionne));
-    window.open('../game.html',"_self");
+    window.open('../Afropoly/game.html',"_self");
 }
